@@ -95,7 +95,7 @@ public class HelloWorld : MonoBehaviour
 
 
 ## Выводы
-Я установила программы Jupyter и Unity и немного ознакомилась с их базовым функционалом.
+Я установила Anaconda.navigator и Unity и частично ознакомилась с их базовым функционалом.
 
 
 | Plugin | README |
