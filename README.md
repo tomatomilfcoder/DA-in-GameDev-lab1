@@ -56,6 +56,9 @@
 - Установить IDE для работы с C#.
 - Создать новый 3D-проект.
 - Настроить синхронизацию Unity и Visual Studio с помощью вкладки Edit -> Preferences -> External Tools -> External Script Editor -> Visual Studio.
+
+![image](https://github.com/user-attachments/assets/e2412851-e4fe-45d1-9a6c-19f99201d9c9)
+
 - Написать программу Hello World на C# с запуском на Unity. Для этого переходим в Assets -> Create -> C# Script. Открываем скрипт в VS и меняем его содержимое на желаемый код:
 ```c#
 using System.Collections;
@@ -70,14 +73,14 @@ public class HelloWorld : MonoBehaviour
     }
 }
 ```
-- Создать пустой объект в меню Hierarchy -> + -> Create Empty и перетащить на него HelloWorld.
-- Нажать "запустить". В консоль выведется Hello World.
 
-![image](https://github.com/user-attachments/assets/e2412851-e4fe-45d1-9a6c-19f99201d9c9)
+![image](https://github.com/user-attachments/assets/7a4dfc9c-e4ac-436c-b556-281e8c53dcd7)
+
+- Создать пустой объект в меню Hierarchy -> + -> Create Empty и перетащить на него HelloWorld.
 
 ![image](https://github.com/user-attachments/assets/226bf1ee-e34d-48db-948e-136162130e92)
 
-![image](https://github.com/user-attachments/assets/7a4dfc9c-e4ac-436c-b556-281e8c53dcd7)
+- Нажать "запустить". В консоль выведется Hello World.
 
 ![image](https://github.com/user-attachments/assets/4c70d9b0-b1c2-4e9e-9084-2185195ca824)
 
