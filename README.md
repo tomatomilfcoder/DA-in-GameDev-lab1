@@ -74,8 +74,11 @@ public class HelloWorld : MonoBehaviour
 - Нажать "запустить". В консоль выведется Hello World.
 
 ![image](https://github.com/user-attachments/assets/e2412851-e4fe-45d1-9a6c-19f99201d9c9)
+
 ![image](https://github.com/user-attachments/assets/226bf1ee-e34d-48db-948e-136162130e92)
+
 ![image](https://github.com/user-attachments/assets/7a4dfc9c-e4ac-436c-b556-281e8c53dcd7)
+
 ![image](https://github.com/user-attachments/assets/4c70d9b0-b1c2-4e9e-9084-2185195ca824)
 
 
