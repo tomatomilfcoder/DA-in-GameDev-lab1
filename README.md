@@ -56,7 +56,7 @@
 - Установить IDE для работы с C#.
 - Создать новый 3D-проект.
 - Настроить синхронизацию Unity и Visual Studio с помощью вкладки Edit -> Preferences -> External Tools -> External Script Editor -> Visual Studio.
-- Написать программу Hello World на C# с запуском на Unity. Для этого переходим в Assets -> Create -> C# Script. Открываем скрипт в VS и меняем его содержимое на желаемую программу:
+- Написать программу Hello World на C# с запуском на Unity. Для этого переходим в Assets -> Create -> C# Script. Открываем скрипт в VS и меняем его содержимое на желаемый код:
 ```c#
 using System.Collections;
 using System.Collections.Generic;
